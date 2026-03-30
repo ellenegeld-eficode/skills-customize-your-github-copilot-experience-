@@ -58,6 +58,34 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "music-in-python",
+      "title": "Music in Python",
+      "description": "Build a playlist analyzer using Python lists, dictionaries, and functions.",
+      "path": "assignments/music-in-python",
+      "dueDate": "2026-04-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Create a REST API with FastAPI using endpoints, validation, and JSON responses.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-04-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
